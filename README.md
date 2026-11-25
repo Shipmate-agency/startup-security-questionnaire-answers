@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://shipmate.agency/tools/questionnaire-kit">
-    <img src="./assets/banner.png" alt="Startup Security Questionnaire Answers (SIG Lite / VSA) by Shipmate" width="840" />
+    <img src="https://raw.githubusercontent.com/Shipmate-agency/.github/main/assets/shipmate-banner.png" alt="Shipmate (shipmate.agency)" width="840" />
   </a>
 </p>
 
